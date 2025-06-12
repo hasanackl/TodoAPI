@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hasan\\source\\repos\\Users.Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60ECE0FB-5316-4CFA-AD09-A36D7B98C2B5}|Users.Management.API\\Users.Management.API.csproj|c:\\users\\hasan\\source\\repos\\users.management\\users.management.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60ECE0FB-5316-4CFA-AD09-A36D7B98C2B5}|Users.Management.API\\Users.Management.API.csproj|solutionrelative:users.management.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60ECE0FB-5316-4CFA-AD09-A36D7B98C2B5}|Users.Management.API\\Users.Management.API.csproj|c:\\users\\hasan\\source\\repos\\users.management\\users.management.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60ECE0FB-5316-4CFA-AD09-A36D7B98C2B5}|Users.Management.API\\Users.Management.API.csproj|solutionrelative:users.management.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60ECE0FB-5316-4CFA-AD09-A36D7B98C2B5}|Users.Management.API\\Users.Management.API.csproj|c:\\users\\hasan\\source\\repos\\users.management\\users.management.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60ECE0FB-5316-4CFA-AD09-A36D7B98C2B5}|Users.Management.API\\Users.Management.API.csproj|solutionrelative:users.management.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60ECE0FB-5316-4CFA-AD09-A36D7B98C2B5}|Users.Management.API\\Users.Management.API.csproj|c:\\users\\hasan\\source\\repos\\users.management\\users.management.api\\fake\\fakedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60ECE0FB-5316-4CFA-AD09-A36D7B98C2B5}|Users.Management.API\\Users.Management.API.csproj|solutionrelative:users.management.api\\fake\\fakedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FakeData.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan\\source\\repos\\Users.Management\\Users.Management.API\\Fake\\FakeData.cs",
+              "RelativeDocumentMoniker": "Users.Management.API\\Fake\\FakeData.cs",
+              "ToolTip": "C:\\Users\\Hasan\\source\\repos\\Users.Management\\Users.Management.API\\Fake\\FakeData.cs",
+              "RelativeToolTip": "Users.Management.API\\Fake\\FakeData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T12:32:28.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan\\source\\repos\\Users.Management\\Users.Management.API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Users.Management.API\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Hasan\\source\\repos\\Users.Management\\Users.Management.API\\Models\\User.cs",
+              "RelativeToolTip": "Users.Management.API\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T12:29:35.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan\\source\\repos\\Users.Management\\Users.Management.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Users.Management.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Hasan\\source\\repos\\Users.Management\\Users.Management.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Users.Management.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T12:25:52.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan\\source\\repos\\Users.Management\\Users.Management.API\\Startup.cs",
+              "RelativeDocumentMoniker": "Users.Management.API\\Startup.cs",
+              "ToolTip": "C:\\Users\\Hasan\\source\\repos\\Users.Management\\Users.Management.API\\Startup.cs",
+              "RelativeToolTip": "Users.Management.API\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T12:23:29.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
