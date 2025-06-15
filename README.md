@@ -22,7 +22,7 @@ This API allows you to create, read, update, and delete (CRUD) todo items.
 
 ## 🚀 How to Run the Project
 
-- 1. Clone the repository:
+- 1.Clone the repository:
   git clone https://github.com/hasanackl/TodoAPI.git
 - 2.Navigate into the project folder:
   cd TodoAPI
@@ -48,10 +48,12 @@ This API allows you to create, read, update, and delete (CRUD) todo items.
 }
 
 - GET - All Todos
-  GET /api/todo
+
+GET /api/todo
 
 - GET - Todo by ID
-  GET /api/todo/{id}
+
+GET /api/todo/{id}
 
 
 ✅ Features
