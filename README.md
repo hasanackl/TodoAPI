@@ -22,24 +22,24 @@ This API allows you to create, read, update, and delete (CRUD) todo items.
 
 ## 🚀 How to Run the Project
 
-1. Clone the repository:
-git clone https://github.com/hasanackl/TodoAPI.git
-2.Navigate into the project folder:
-cd TodoAPI
-3.Restore packages:
-dotnet restore
-4.Update the database:
-dotnet ef database update
-5.Run the project:
-dotnet run
-6.Open your browser and navigate to:
-https://localhost:{PORT}/swagger
+- 1. Clone the repository:
+- git clone https://github.com/hasanackl/TodoAPI.git
+- 2.Navigate into the project folder:
+- cd TodoAPI
+- 3.Restore packages:
+- dotnet restore
+- 4.Update the database:
+- dotnet ef database update
+- 5.Run the project:
+- dotnet run
+- 6.Open your browser and navigate to:
+- https://localhost:{PORT}/swagger
 
 🛠 Example Endpoints
 
-POST - Create Todo
+- POST - Create Todo
 
-POST /api/todo
+- POST /api/todo
 {
   "title": "Learn ASP.NET Core",
   "description": "Build web APIs using .NET",
@@ -47,11 +47,11 @@ POST /api/todo
   "priority": 2
 }
 
-GET - All Todos
-GET /api/todo
+- GET - All Todos
+- GET /api/todo
 
-GET - Todo by ID
-GET /api/todo/{id}
+- GET - Todo by ID
+- GET /api/todo/{id}
 
 
 ✅ Features
